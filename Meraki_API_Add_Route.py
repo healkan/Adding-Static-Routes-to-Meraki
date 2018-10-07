@@ -64,7 +64,7 @@ net_id = net_list[pick]["id"]
   
 # Adding routes
 network_id = net_id
-file_name = "merakiroutes_test3.csv"
+file_name = "merakiroutes_test.csv"
 file = open(file_name,'r')
 csv_data = csv.reader(file)
 
